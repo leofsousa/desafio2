@@ -3,6 +3,7 @@ import styled from "styled-components";
 export const InputContainer = styled.div`
   border: 1px solid #fafafa;
   border-radius: 20px;
+  max-width: 700px;
 
   height: 62px;
   width: 80%;
