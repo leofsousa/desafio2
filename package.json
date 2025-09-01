@@ -2,7 +2,7 @@
   "name": "desafio2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/leofsousa/desafio2",
+  "homepage": "https://leofsousa.github.io/desafio2",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
