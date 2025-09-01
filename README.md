@@ -45,3 +45,12 @@ Clone o projeto:
 ```bash
 git clone https://github.com/leofsousa/desafio2.git
 cd desafio2
+
+Instale as dependências:
+
+npm install
+
+
+Execute a aplicação em modo de desenvolvimento:
+
+npm start
