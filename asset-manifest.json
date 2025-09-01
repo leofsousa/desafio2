@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/leofsousa/desafio2/static/js/main.61016388.js",
-    "index.html": "/leofsousa/desafio2/index.html",
-    "main.61016388.js.map": "/leofsousa/desafio2/static/js/main.61016388.js.map"
+    "main.js": "/desafio2/static/js/main.baef0c14.js",
+    "index.html": "/desafio2/index.html",
+    "main.baef0c14.js.map": "/desafio2/static/js/main.baef0c14.js.map"
   },
   "entrypoints": [
-    "static/js/main.61016388.js"
+    "static/js/main.baef0c14.js"
   ]
 }
